@@ -1,6 +1,6 @@
 # flut_chat
 
-A new Flutter project.
+A simple Chat App with Flutter and Stream API
 
 ## Getting Started
 
