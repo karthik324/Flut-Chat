@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421307086429",
+    "project_id": "flut-chat-f3ba7",
+    "storage_bucket": "flut-chat-f3ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421307086429:android:8aae901c02244e0978ffb4",
+        "android_client_info": {
+          "package_name": "com.example.flut_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421307086429-bdavma4lcpad595b8i7db8hkqdlh9qtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJwCNVqZlK7rbyNhehZk4UUsG-9DFcfe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421307086429-bdavma4lcpad595b8i7db8hkqdlh9qtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
